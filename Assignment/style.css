@@ -1,0 +1,4 @@
+.card {
+  width: 400px;
+}
+/* Use of external css to manage the width of the card instead of using inline css in card tab */
